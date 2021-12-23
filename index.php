@@ -1,4 +1,4 @@
 
-    <h1>Gold'N Geniuz</h1>
+    <h1>Welome to Gold'N Geniuz</h1>
 
     
